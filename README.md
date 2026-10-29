@@ -1,0 +1,2 @@
+# nugush
+site nugush.ru
